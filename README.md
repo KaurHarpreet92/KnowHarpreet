@@ -9,7 +9,7 @@
 </p>
 
 ### I am an Accounts Payable Manager
-- 🔭 I’m currently working for my CCNA certification.
+- 🔭 Currently working for my CCNA certification.
 - 🌱 I’m currently learning IP connectivity.
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
