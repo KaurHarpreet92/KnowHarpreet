@@ -10,10 +10,10 @@
 
 ### I am an Accounts Payable Assistant
 - 🔭 Currently working towards my CCNA certification.
-- 🌱 I’m currently learning IP connectivity.
+- 🌱 I’m currently enhancing sketching and watercolor paintings.
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-<!-- - 🥅 2024 Goals: Be a network engineer -->
+- 🥅 2024 Goals: switch career to a Network Engineer.
 <br>
 
 ### Languages and Tools: 
