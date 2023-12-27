@@ -10,7 +10,7 @@
 
 ### I am an Accounts Payable Assistant
 - 🔭 Currently working towards my CCNA certification.
-- 🌱 I’m currently enhancing sketching and watercolor paintings.
+- 🌱 I’m currently enhancing sketching and watercolor skills.
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 - 🥅 2024 Goals: switch career to a Network Engineer.
