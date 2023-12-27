@@ -8,7 +8,7 @@
 <a href="mailto:harpreetsandhu494@gmail.com?subject=Hola%20Harpreet"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-### I am an Accounts Payable Manager
+### I am an Accounts Payable Assistant
 - 🔭 Currently working for my CCNA certification.
 - 🌱 I’m currently learning IP connectivity.
 - 🧗 I try to: Go beyond and push the bounds
